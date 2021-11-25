@@ -1,0 +1,14 @@
+{
+  "name": "avaliacao_api",
+  "version": "1.0.0",
+  "description": "Backend da aplicação com banco JSON.",
+  "main": "index.js",
+  "scripts": {
+    "api": "json-server --watch db.json"
+  },
+  "author": "AZ Informática",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.15.1"
+  }
+}

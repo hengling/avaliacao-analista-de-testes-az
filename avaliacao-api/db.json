@@ -1,0 +1,13 @@
+{
+  "bem-consumo": [
+    {
+      "id": 1,
+      "descricao": "22",
+      "unidade": "Caixa (6 unidades)",
+      "valor": "2",
+      "andar": "A1",
+      "corredor": "C1",
+      "prateleira": "P1"
+    }
+  ]
+}
